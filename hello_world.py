@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Carpintero is sawdust-free and ready to build! 🪚")
